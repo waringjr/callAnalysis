@@ -1,0 +1,97 @@
+---
+title: "Call Analysis"
+author: "Jeffrey Waring"
+date: "April 14, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Who calls me more: Jen or Kris?
+
+Time to answer this important question: does my wife call me more or Kris?
+To answer, I logged all incoming calls for 18 months, using [this recipe from IFTTT](https://ifttt.com/applets/161618p-automatically-log-every-call-you-make-on-your-android-phone-to-a-google-spreadsheet).
+
+First, I downloaded the .csv file, and added a header and slightly modified the date stamp column.  Two subsets are created: one for Kris' calls, and one for Jenny's.  Both subsets have a date object column created by concatenating monthh,day, and year factors previously read in.
+
+```{r echo = TRUE}
+
+setwd("C:/Users/Jeffrey.Waring/R projects/Call logging")
+df <- read.csv("Calls.csv",header=TRUE)
+
+kris <- df[df$Caller=="Kris Larsen",]
+
+#Now create a date column
+kris$Date<-as.Date(paste(as.character(kris$Month),as.character(kris$Day),' ',as.character(kris$Year)),format="%B %d,%Y")
+#and a weekday column
+kris$Weekday<-c("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", 
+  "Friday", "Saturday")[as.POSIXlt(kris$Date)$wday + 1]
+
+jenny <- df[df$Caller=="Jenny",]
+#Now create a date column
+jenny$Date<-as.Date(paste(as.character(jenny$Month),as.character(jenny$Day),' ',as.character(jenny$Year)),format="%B %d,%Y")
+#and a weekday column
+jenny$Weekday<-c("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", 
+                "Friday", "Saturday")[as.POSIXlt(jenny$Date)$wday + 1]
+
+```
+
+
+```{r echo = FALSE}
+tot<-nrow(df)
+```
+In total, I recieved: `r tot` calls from the dates:
+```{r echo = FALSE}
+range(kris$Date)
+```
+
+```{r echo = F}
+unknown<-nrow(df[df$Caller=="",])
+```
+Of these `r unknown` calls,
+```{r echo=F}
+options(scipen=1, digits=1)
+```
+`r unknown/tot*100`% were from unknown numbers
+```{r echo=F}
+df2<-df[!df$Caller=="",]
+```
+These unknown numbers are excluded from further analysis.
+
+## Now, some analysis
+
+Clearly Kris is the winner for total calls:
+
+```{r echo=TRUE,fig.align='center'}
+par(mar = c(2, 8, 4, 2) + 0.1, mgp = c(4, 1, 0), las = 2)
+barplot(table(df2$Caller),horiz=TRUE,col="blue",main="Calls by Person",xlab="# of calls",las=1)
+
+box()
+```
+
+With a given average calltime of `r mean(kris$length)` seconds, Kris' calls are also longer than average (`r mean(df2$length)` seconds) and Jens' (`r mean(jenny$length)` seconds):
+
+
+
+
+```{r echo = T,fig.align='center'}
+
+hist(kris$length,col="green",breaks = 20,main="Call Durations",xlab="[sec]")
+hist(jenny$length,col="purple",add=TRUE,breaks=5)
+abline(v=mean(kris$length),col="chartreuse4",lwd=5)
+abline(v=mean(jenny$length),col="darkorchid4",lwd=5)
+legend('topright', c("Kris","Jenny"),lty=1, lwd=4,bty='n', cex=.75,col=c("green","purple"))
+box()
+```
+
+Finally, and perhaps least surprisingly, Kris' calls tend to skew to the weekends: when plans need to be made.  Jens' calls tend to be more evenly distributed, with the exception of Wednesday.
+
+```{r echo=T,fig.align='center'}
+par(mar = c(2, 8, 4, 2) + 0.1, mgp = c(4, 1, 0), las = 2)
+barplot(table(kris$Weekday),las=1,hori=TRUE,col="green")
+barplot(table(jenny$Weekday),las=1,hori=TRUE,col="purple",add=TRUE,xlab="# of calls")
+legend('topright', c("Kris","Jenny"),lty=1, lwd=4,bty='n', cex=.75,col=c("green","purple"))
+box()
+```

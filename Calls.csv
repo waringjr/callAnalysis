@@ -1,0 +1,193 @@
+Direction,Month,Day,Year,X,time,Phone,Caller,length
+Inbound,May,"22,",2014,at,01:43PM,4845833592,,0
+Inbound,May,"22,",2014,at,10:17PM,2673188822,Kris Larsen,38
+Inbound,May,"22,",2014,at,10:20PM,2673188822,Kris Larsen,9
+Inbound,May,"28,",2014,at,05:18PM,2673188822,Kris Larsen,0
+Inbound,May,"28,",2014,at,07:48PM,2676647779,Carolynn Bilbee,13
+Inbound,May,"30,",2014,at,12:59PM,2673188822,Kris Larsen,0
+Inbound,May,"30,",2014,at,01:16PM,2156548994,,384
+Inbound,May,"30,",2014,at,01:53PM,2673188822,Kris Larsen,22
+Inbound,May,"31,",2014,at,11:40AM,2158801290,Jenny,24
+Inbound,June,"01,",2014,at,01:50PM,8007332767,,0
+Inbound,June,"01,",2014,at,01:50PM,8007332767,,0
+Inbound,June,"04,",2014,at,06:05PM,8007332767,,0
+Inbound,June,"06,",2014,at,10:05AM,2673188822,Kris Larsen,232
+Inbound,June,"06,",2014,at,08:43PM,2673188822,Kris Larsen,0
+Inbound,June,"06,",2014,at,08:47PM,2673188822,Kris Larsen,19
+Inbound,June,"07,",2014,at,02:45PM,2673188822,Kris Larsen,304
+Inbound,June,"07,",2014,at,02:56PM,2673188822,Kris Larsen,64
+Inbound,June,"07,",2014,at,03:38PM,2673188822,Kris Larsen,71
+Inbound,June,"08,",2014,at,05:34PM,2158801290,Jenny,49
+Inbound,June,"08,",2014,at,05:37PM,2153793670,Parents,607
+Inbound,June,"11,",2014,at,07:27PM,7814284009,,24
+Inbound,June,"13,",2014,at,01:15PM,2673188822,Kris Larsen,0
+Inbound,June,"13,",2014,at,03:51PM,2158801290,Jenny,125
+Inbound,June,"13,",2014,at,05:52PM,2673188822,Kris Larsen,104
+Inbound,June,"15,",2014,at,11:02AM,2153793670,Parents,65
+Inbound,June,"15,",2014,at,06:01PM,2153793670,Parents,54
+Inbound,June,"16,",2014,at,12:26PM,8007332767,,0
+Inbound,June,"20,",2014,at,12:45PM,2153793670,Parents,28
+Inbound,June,"20,",2014,at,12:45PM,2153793670,Parents,28
+Inbound,June,"20,",2014,at,03:12PM,2673188822,Kris Larsen,142
+Inbound,June,"20,",2014,at,04:26PM,2673188822,Kris Larsen,131
+Inbound,June,"21,",2014,at,02:12PM,2673188822,Kris Larsen,76
+Inbound,June,"27,",2014,at,12:03PM,2676291520,,26
+Inbound,June,"27,",2014,at,03:24PM,2673188822,Kris Larsen,102
+Inbound,June,"27,",2014,at,07:26PM,2673188822,Kris Larsen,0
+Inbound,June,"27,",2014,at,07:42PM,2673188822,Kris Larsen,63
+Inbound,June,"27,",2014,at,07:58PM,2673188822,Kris Larsen,0
+Inbound,July,"03,",2014,at,12:05PM,2675304159,,9
+Inbound,July,"03,",2014,at,09:40PM,2158801290,Jenny,101
+Inbound,July,"05,",2014,at,04:11PM,2673188822,Kris Larsen,67
+Inbound,July,"05,",2014,at,08:47PM,2673188822,Kris Larsen,52
+Inbound,July,"05,",2014,at,08:55PM,2155656416,Parents,8
+Inbound,July,"11,",2014,at,11:38AM,2676258175,Nile Harvey,73
+Inbound,July,"11,",2014,at,02:50PM,2676291520,,23
+Inbound,July,"11,",2014,at,02:53PM,2158801290,Jenny,9
+Inbound,July,"11,",2014,at,02:54PM,2158801290,Jenny,5
+Inbound,July,"12,",2014,at,01:47PM,2673188822,Kris Larsen,83
+Inbound,July,"12,",2014,at,02:22PM,2158801290,Jenny,7
+Inbound,July,"12,",2014,at,04:34PM,2676258175,Nile Harvey,39
+Inbound,July,"19,",2014,at,03:42PM,2673188822,Kris Larsen,56
+Inbound,July,"19,",2014,at,04:52PM,2673188822,Kris Larsen,86
+Inbound,July,"19,",2014,at,06:20PM,2673188822,Kris Larsen,71
+Inbound,July,"19,",2014,at,07:04PM,2673188822,Kris Larsen,38
+Inbound,July,"26,",2014,at,01:35PM,2155938558,Jeanine Wagner,44
+Inbound,August,"01,",2014,at,05:40PM,2673188822,Kris Larsen,107
+Inbound,August,"03,",2014,at,06:42PM,4083767400,,30
+Inbound,August,"04,",2014,at,04:29PM,8007332767,,264
+Inbound,August,"06,",2014,at,04:23PM,2673188822,Kris Larsen,93
+Inbound,August,"08,",2014,at,05:30PM,2673188822,Kris Larsen,77
+Inbound,August,"09,",2014,at,04:03PM,2673188822,Kris Larsen,82
+Inbound,August,"09,",2014,at,05:05PM,2673188822,Kris Larsen,185
+Inbound,August,"15,",2014,at,07:53AM,2673188822,Kris Larsen,0
+Inbound,August,"15,",2014,at,12:40PM,2676647779,Carolynn Bilbee,17
+Inbound,August,"18,",2014,at,07:26PM,6316139732,,0
+Inbound,August,"23,",2014,at,05:18PM,2158801290,Jenny,44
+Inbound,August,"29,",2014,at,02:26PM,2673188822,Kris Larsen,81
+Inbound,August,"31,",2014,at,02:12PM,2674957984,Patrick LaRoche,0
+Inbound,August,"31,",2014,at,02:12PM,2674957984,Patrick LaRoche,181
+Inbound,August,"31,",2014,at,04:25PM,2674957984,Patrick LaRoche,32
+Inbound,August,"31,",2014,at,10:23PM,2673188822,Kris Larsen,90
+Inbound,September,"01,",2014,at,11:43AM,2673188822,Kris Larsen,67
+Inbound,September,"01,",2014,at,03:42PM,2673188822,Kris Larsen,36
+Inbound,September,"01,",2014,at,04:12PM,2676647779,Carolynn Bilbee,72
+Inbound,September,"01,",2014,at,05:05PM,2153793670,Parents,132
+Inbound,September,"02,",2014,at,01:48PM,3646279840,,0
+Inbound,September,"02,",2014,at,08:58PM,2153100414,,9
+Inbound,September,"04,",2014,at,09:28AM,2126613500,,0
+Inbound,September,"04,",2014,at,10:54AM,4375045405,,0
+Inbound,September,"05,",2014,at,10:37PM,2673188822,Kris Larsen,120
+Inbound,September,"06,",2014,at,12:10PM,2673188822,Kris Larsen,70
+Inbound,September,"08,",2014,at,07:35PM,2158801290,Jenny,233
+Inbound,September,"09,",2014,at,12:11AM,2674957984,Patrick LaRoche,221
+Inbound,September,"10,",2014,at,02:44PM,2156428550,,0
+Inbound,September,"10,",2014,at,04:31PM,2674607350,,66
+Inbound,September,"10,",2014,at,06:44PM,2674813228,Leilani Tesoro Fox,57
+Inbound,September,"15,",2014,at,02:11PM,2157645372,,0
+Inbound,September,"16,",2014,at,03:22PM,2155832347,,12
+Inbound,September,"16,",2014,at,04:14PM,2152533070,,27
+Inbound,September,"16,",2014,at,06:37PM,7865045876,,0
+Inbound,September,"17,",2014,at,05:29PM,2673188822,Kris Larsen,84
+Inbound,September,"19,",2014,at,03:46PM,2155896924,,0
+Inbound,September,"21,",2014,at,12:53PM,2158801290,Jenny,44
+Inbound,September,"23,",2014,at,11:37AM,2156229636,,0
+Inbound,September,"24,",2014,at,05:36PM,2673188822,Kris Larsen,9
+Inbound,September,"25,",2014,at,10:39PM,2673188822,Kris Larsen,197
+Inbound,September,"26,",2014,at,11:59AM,2676258175,Nile Harvey,0
+Inbound,September,"26,",2014,at,01:03PM,8134445626,,0
+Inbound,October,"01,",2014,at,11:32AM,2673188822,Kris Larsen,0
+Inbound,October,"01,",2014,at,08:47PM,3107792894,,52
+Inbound,October,"05,",2014,at,11:51AM,3107792894,,13
+Inbound,October,"05,",2014,at,11:53AM,3107792894,,9
+Inbound,October,"05,",2014,at,11:51AM,3107792894,,13
+Inbound,October,"05,",2014,at,11:53AM,3107792894,,9
+Inbound,October,"05,",2014,at,05:17PM,2158801290,Jenny,50
+Inbound,October,"06,",2014,at,08:45PM,2673188822,Kris Larsen,822
+Inbound,October,"07,",2014,at,07:47PM,2158982895,,286
+Inbound,October,"08,",2014,at,04:10PM,2673188822,Kris Larsen,0
+Inbound,October,"09,",2014,at,12:54PM,8134445626,,0
+Inbound,October,"09,",2014,at,08:43PM,2673188822,Kris Larsen,316
+Inbound,October,"10,",2014,at,11:13AM,2673188822,Kris Larsen,0
+Inbound,October,"10,",2014,at,05:26PM,2673188822,Kris Larsen,0
+Inbound,October,"11,",2014,at,10:50AM,2158801290,Jenny,52
+Inbound,October,"11,",2014,at,12:13PM,2673188822,Kris Larsen,213
+Inbound,October,"11,",2014,at,08:45PM,2673188822,Kris Larsen,0
+Inbound,October,"12,",2014,at,12:40PM,2673188822,Kris Larsen,151
+Inbound,October,"14,",2014,at,12:30PM,8134445626,,0
+Inbound,October,"14,",2014,at,04:04PM,6105675817,,0
+Inbound,October,"14,",2014,at,07:40PM,8134445626,,35
+Inbound,October,"14,",2014,at,09:01PM,2153793670,Parents,203
+Inbound,October,"15,",2014,at,08:20AM,2153793670,Parents,141
+Inbound,October,"20,",2014,at,11:34AM,8004944000,,0
+Inbound,October,"21,",2014,at,07:58AM,8004944000,,29
+Inbound,October,"22,",2014,at,07:38PM,6102792788,,0
+Inbound,November,"03,",2014,at,12:48PM,9032849988,,0
+Inbound,November,"03,",2014,at,01:30PM,9492863973,,0
+Inbound,November,"03,",2014,at,02:01PM,9492863973,,36
+Inbound,November,"07,",2014,at,10:32AM,8007332767,,20
+Inbound,November,"07,",2014,at,05:14PM,2156573027,,32
+Inbound,November,"10,",2014,at,10:36AM,8004944000,,18
+Inbound,November,"14,",2014,at,11:29AM,2158361041,,0
+Inbound,December,"15,",2014,at,03:03PM,2152831082,,0
+Inbound,January,"28,",2015,at,02:48PM,2158067451,Mom,34
+Inbound,February,"24,",2015,at,10:37AM,6108344284,,0
+Inbound,February,"25,",2015,at,02:38PM,9203295465,,0
+Inbound,March,"09,",2015,at,04:49PM,2674607350,,0
+Inbound,March,"17,",2015,at,08:45PM,6102792788,,0
+Inbound,March,"31,",2015,at,10:51AM,9203295465,,0
+Inbound,April,"06,",2015,at,01:58PM,6123511106,,11
+Inbound,April,"09,",2015,at,03:49PM,6789097363,,0
+Inbound,April,"18,",2015,at,10:32PM,0,,73
+Inbound,May,"13,",2015,at,08:50PM,3042635785,,0
+Inbound,May,"28,",2015,at,03:47PM,6108344284,,0
+Inbound,June,"03,",2015,at,11:04AM,6108323312,,0
+Inbound,June,"03,",2015,at,02:44PM,6108344288,,0
+Inbound,June,"05,",2015,at,11:46AM,6108344284,,0
+Inbound,June,"09,",2015,at,10:36AM,8007332767,,0
+Inbound,June,"12,",2015,at,10:56AM,6123513211,,0
+Inbound,July,"06,",2015,at,07:02PM,4143696646,,0
+Inbound,July,"13,",2015,at,03:43PM,318,,0
+Inbound,August,"23,",2015,at,05:18PM,6095835182,,53
+Inbound,August,"27,",2015,at,11:00AM,6108344288,,0
+Inbound,September,"04,",2015,at,04:32PM,2159482493,Voicemail - Google,35
+Inbound,September,"07,",2015,at,12:13PM,2673188822,Kris Larsen,0
+Inbound,September,"07,",2015,at,03:36PM,2673188822,Kris Larsen,12
+Inbound,September,"10,",2015,at,05:17PM,2673188822,Kris Larsen,87
+Inbound,September,"18,",2015,at,08:56PM,2673188822,Kris Larsen,169
+Inbound,September,"19,",2015,at,02:11PM,2673188822,Kris Larsen,100
+Inbound,September,"19,",2015,at,09:07PM,2158801290,Jenny,0
+Inbound,September,"20,",2015,at,06:01PM,6095835182,,0
+Inbound,September,"22,",2015,at,05:14PM,2673188822,Kris Larsen,0
+Inbound,October,"02,",2015,at,07:40PM,2673188822,Kris Larsen,0
+Inbound,October,"03,",2015,at,06:58PM,2673188822,Kris Larsen,0
+Inbound,October,"08,",2015,at,05:14PM,2158801290,Jenny,0
+Inbound,October,"09,",2015,at,01:30PM,3057131010,,0
+Inbound,October,"09,",2015,at,06:23PM,2158801290,Jenny,122
+Inbound,October,"10,",2015,at,08:41AM,2158067451,Mom,26
+Inbound,October,"11,",2015,at,09:52AM,2673188822,Kris Larsen,0
+Inbound,October,"11,",2015,at,12:06PM,2673188822,Kris Larsen,65
+Inbound,October,"16,",2015,at,07:02PM,2158801290,Jenny,49
+Inbound,October,"20,",2015,at,08:24PM,6102792788,,0
+Inbound,October,"23,",2015,at,11:16AM,8562467065,Tom Z,18
+Inbound,October,"23,",2015,at,03:37PM,2673188822,Kris Larsen,0
+Inbound,October,"27,",2015,at,06:06PM,2158801290,Jenny,29
+Inbound,October,"31,",2015,at,10:39AM,8007332767,,0
+Inbound,October,"31,",2015,at,10:39AM,8007332767,,0
+Inbound,October,"31,",2015,at,04:03PM,2158801290,Jenny,85
+Inbound,November,"06,",2015,at,06:02PM,2673188822,Kris Larsen,309
+Inbound,November,"12,",2015,at,06:45PM,2158801290,Jenny,114
+Inbound,November,"13,",2015,at,05:29PM,2673188822,Kris Larsen,76
+Inbound,November,"18,",2015,at,06:02PM,2673188822,Kris Larsen,21
+Inbound,November,"18,",2015,at,06:21PM,2673188822,Kris Larsen,83
+Inbound,November,"18,",2015,at,08:14PM,2156573027,,0
+Inbound,November,"20,",2015,at,08:10PM,2673188822,Kris Larsen,50
+Inbound,November,"22,",2015,at,06:58PM,2156573027,,131
+Inbound,November,"23,",2015,at,10:30AM,2122571382,,0
+Inbound,November,"23,",2015,at,01:33PM,4845863592,,0
+Inbound,November,"26,",2015,at,03:47PM,2158801290,Jenny,28
+Inbound,November,"26,",2015,at,03:47PM,2158801290,Jenny,28
+Inbound,November,"26,",2015,at,03:47PM,2158801290,Jenny,28
+Inbound,November,"26,",2015,at,03:47PM,2158801290,Jenny,28
+Inbound,November,"26,",2015,at,03:47PM,2158801290,Jenny,28
+Inbound,November,"26,",2015,at,03:47PM,2158801290,Jenny,28
